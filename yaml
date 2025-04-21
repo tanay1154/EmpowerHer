@@ -1,0 +1,12 @@
+
+---
+
+### 🚀 **6️⃣ Push Your Code to GitHub**
+
+```bash
+git init
+git add .
+git commit -m "Initial commit — EmpowerHer chatbot ready!"
+git branch -M main
+git remote add origin https://github.com/tanay1154/EmpowerHer.git
+git push -u origin main
